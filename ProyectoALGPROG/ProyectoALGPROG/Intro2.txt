@@ -1,0 +1,13 @@
+
+
+
+
+
+	La nave rebelde, Halcon Milenario, del mercenario 'Mark el Implacable' ha sufrido graves danos
+	en el ultimo encuentro con los destructores imperiales. Para ser reparada debe llegar al planeta
+			T evitando nuevos enfrentamientos con los destructores.
+
+			LLEGA AL PLANETA T SIN COLISIONAR CON LOS DESTRUCTORES
+
+
+			     <<Presiona cualquier tecla para continuar>>
